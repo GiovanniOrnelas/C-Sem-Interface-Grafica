@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisivel-3-7", "Divisivel-3-7.csproj", "{59BBEC7A-1DB0-4FAA-A336-AF9B891DCFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BBEC7A-1DB0-4FAA-A336-AF9B891DCFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BBEC7A-1DB0-4FAA-A336-AF9B891DCFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BBEC7A-1DB0-4FAA-A336-AF9B891DCFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BBEC7A-1DB0-4FAA-A336-AF9B891DCFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98832998-B783-4B71-B492-A5FDF5DDD4EA}
+	EndGlobalSection
+EndGlobal

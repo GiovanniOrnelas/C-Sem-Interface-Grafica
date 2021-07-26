@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex8 (while,for)\bin\Debug\Ex8 (while,for).exe.config
+C:\Users\Giovanni\source\repos\Ex8 (while,for)\bin\Debug\Ex8 (while,for).exe
+C:\Users\Giovanni\source\repos\Ex8 (while,for)\bin\Debug\Ex8 (while,for).pdb
+C:\Users\Giovanni\source\repos\Ex8 (while,for)\obj\Debug\Ex8 (while,for).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex8 (while,for)\obj\Debug\Ex8 (while,for).exe
+C:\Users\Giovanni\source\repos\Ex8 (while,for)\obj\Debug\Ex8 (while,for).pdb

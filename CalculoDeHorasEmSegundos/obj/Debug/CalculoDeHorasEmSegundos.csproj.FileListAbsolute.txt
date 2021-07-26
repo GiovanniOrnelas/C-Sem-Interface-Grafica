@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\CalculoDeHorasEmSegundos\bin\Debug\CalculoDeHorasEmSegundos.exe.config
+C:\Users\Giovanni\source\repos\CalculoDeHorasEmSegundos\bin\Debug\CalculoDeHorasEmSegundos.exe
+C:\Users\Giovanni\source\repos\CalculoDeHorasEmSegundos\bin\Debug\CalculoDeHorasEmSegundos.pdb
+C:\Users\Giovanni\source\repos\CalculoDeHorasEmSegundos\obj\Debug\CalculoDeHorasEmSegundos.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\CalculoDeHorasEmSegundos\obj\Debug\CalculoDeHorasEmSegundos.exe
+C:\Users\Giovanni\source\repos\CalculoDeHorasEmSegundos\obj\Debug\CalculoDeHorasEmSegundos.pdb

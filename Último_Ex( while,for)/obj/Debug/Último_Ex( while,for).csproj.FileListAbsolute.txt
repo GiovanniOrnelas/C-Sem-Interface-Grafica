@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Último_Ex( while,for)\bin\Debug\Último_Ex( while,for).exe.config
+C:\Users\Giovanni\source\repos\Último_Ex( while,for)\bin\Debug\Último_Ex( while,for).exe
+C:\Users\Giovanni\source\repos\Último_Ex( while,for)\bin\Debug\Último_Ex( while,for).pdb
+C:\Users\Giovanni\source\repos\Último_Ex( while,for)\obj\Debug\Último_Ex( while,for).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Último_Ex( while,for)\obj\Debug\Último_Ex( while,for).exe
+C:\Users\Giovanni\source\repos\Último_Ex( while,for)\obj\Debug\Último_Ex( while,for).pdb

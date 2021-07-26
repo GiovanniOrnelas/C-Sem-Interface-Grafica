@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\CervejasEmbaladas\bin\Debug\CervejasEmbaladas.exe.config
+C:\Users\Giovanni\source\repos\CervejasEmbaladas\bin\Debug\CervejasEmbaladas.exe
+C:\Users\Giovanni\source\repos\CervejasEmbaladas\bin\Debug\CervejasEmbaladas.pdb
+C:\Users\Giovanni\source\repos\CervejasEmbaladas\obj\Debug\CervejasEmbaladas.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\CervejasEmbaladas\obj\Debug\CervejasEmbaladas.exe
+C:\Users\Giovanni\source\repos\CervejasEmbaladas\obj\Debug\CervejasEmbaladas.pdb

@@ -1,0 +1,16 @@
+C:\Users\Giovanni\source\repos\while-if\bin\Debug\net5.0\while-if.exe
+C:\Users\Giovanni\source\repos\while-if\bin\Debug\net5.0\while-if.deps.json
+C:\Users\Giovanni\source\repos\while-if\bin\Debug\net5.0\while-if.runtimeconfig.json
+C:\Users\Giovanni\source\repos\while-if\bin\Debug\net5.0\while-if.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\while-if\bin\Debug\net5.0\while-if.dll
+C:\Users\Giovanni\source\repos\while-if\bin\Debug\net5.0\ref\while-if.dll
+C:\Users\Giovanni\source\repos\while-if\bin\Debug\net5.0\while-if.pdb
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.dll
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\ref\while-if.dll
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.pdb
+C:\Users\Giovanni\source\repos\while-if\obj\Debug\net5.0\while-if.genruntimeconfig.cache

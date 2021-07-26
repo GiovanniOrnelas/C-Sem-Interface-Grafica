@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex8-Funções-Métodos\bin\Debug\Ex8-Funções-Métodos.exe.config
+C:\Users\Giovanni\source\repos\Ex8-Funções-Métodos\bin\Debug\Ex8-Funções-Métodos.exe
+C:\Users\Giovanni\source\repos\Ex8-Funções-Métodos\bin\Debug\Ex8-Funções-Métodos.pdb
+C:\Users\Giovanni\source\repos\Ex8-Funções-Métodos\obj\Debug\Ex8-Funções-Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex8-Funções-Métodos\obj\Debug\Ex8-Funções-Métodos.exe
+C:\Users\Giovanni\source\repos\Ex8-Funções-Métodos\obj\Debug\Ex8-Funções-Métodos.pdb

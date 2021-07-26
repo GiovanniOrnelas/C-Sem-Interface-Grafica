@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex3-Matrizes\obj\Debug\Ex3-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex3-Matrizes\bin\Debug\Ex3-Matrizes.exe.config
+C:\Users\Giovanni\source\repos\Ex3-Matrizes\bin\Debug\Ex3-Matrizes.exe
+C:\Users\Giovanni\source\repos\Ex3-Matrizes\bin\Debug\Ex3-Matrizes.pdb
+C:\Users\Giovanni\source\repos\Ex3-Matrizes\obj\Debug\Ex3-Matrizes.exe
+C:\Users\Giovanni\source\repos\Ex3-Matrizes\obj\Debug\Ex3-Matrizes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Refazendo\bin\Debug\Refazendo.exe.config
+C:\Users\Giovanni\source\repos\Refazendo\bin\Debug\Refazendo.exe
+C:\Users\Giovanni\source\repos\Refazendo\bin\Debug\Refazendo.pdb
+C:\Users\Giovanni\source\repos\Refazendo\obj\Debug\Refazendo.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Refazendo\obj\Debug\Refazendo.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Refazendo\obj\Debug\Refazendo.exe
+C:\Users\Giovanni\source\repos\Refazendo\obj\Debug\Refazendo.pdb

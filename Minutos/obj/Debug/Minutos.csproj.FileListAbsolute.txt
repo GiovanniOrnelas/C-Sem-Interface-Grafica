@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Minutos\bin\Debug\Minutos.exe.config
+C:\Users\Giovanni\source\repos\Minutos\bin\Debug\Minutos.exe
+C:\Users\Giovanni\source\repos\Minutos\bin\Debug\Minutos.pdb
+C:\Users\Giovanni\source\repos\Minutos\obj\Debug\Minutos.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Minutos\obj\Debug\Minutos.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Minutos\obj\Debug\Minutos.exe
+C:\Users\Giovanni\source\repos\Minutos\obj\Debug\Minutos.pdb

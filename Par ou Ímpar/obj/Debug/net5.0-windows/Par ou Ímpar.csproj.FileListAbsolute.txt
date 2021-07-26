@@ -1,0 +1,36 @@
+C:\Users\Giovanni\source\repos\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.exe
+C:\Users\Giovanni\source\repos\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.deps.json
+C:\Users\Giovanni\source\repos\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.dll
+C:\Users\Giovanni\source\repos\Par ou Ímpar\bin\Debug\net5.0-windows\ref\Par ou Ímpar.dll
+C:\Users\Giovanni\source\repos\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.pdb
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par_ou_Ímpar.Form1.resources
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.dll
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\ref\Par ou Ímpar.dll
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.pdb
+C:\Users\Giovanni\source\repos\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.genruntimeconfig.cache
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.exe
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.deps.json
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.runtimeconfig.json
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.runtimeconfig.dev.json
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.dll
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\bin\Debug\net5.0-windows\ref\Par ou Ímpar.dll
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\bin\Debug\net5.0-windows\Par ou Ímpar.pdb
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.csproj.AssemblyReference.cache
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par_ou_Ímpar.Form1.resources
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.csproj.GenerateResource.cache
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.AssemblyInfoInputs.cache
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.AssemblyInfo.cs
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.csproj.CoreCompileInputs.cache
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.dll
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\ref\Par ou Ímpar.dll
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.pdb
+S:\Meus Documentos\Área de Trabalho\C#\Par ou Ímpar\obj\Debug\net5.0-windows\Par ou Ímpar.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Ex3-Matrizess\bin\Debug\Ex3-Matrizess.exe.config
+C:\Users\Giovanni\source\repos\Ex3-Matrizess\bin\Debug\Ex3-Matrizess.exe
+C:\Users\Giovanni\source\repos\Ex3-Matrizess\bin\Debug\Ex3-Matrizess.pdb
+C:\Users\Giovanni\source\repos\Ex3-Matrizess\obj\Debug\Ex3-Matrizess.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex3-Matrizess\obj\Debug\Ex3-Matrizess.exe
+C:\Users\Giovanni\source\repos\Ex3-Matrizess\obj\Debug\Ex3-Matrizess.pdb
+C:\Users\Giovanni\source\repos\Ex3-Matrizess\obj\Debug\Ex3-Matrizess.csproj.AssemblyReference.cache

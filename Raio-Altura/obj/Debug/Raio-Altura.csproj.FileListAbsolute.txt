@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Raio-Altura\bin\Debug\Raio-Altura.exe.config
+C:\Users\Giovanni\source\repos\Raio-Altura\bin\Debug\Raio-Altura.exe
+C:\Users\Giovanni\source\repos\Raio-Altura\bin\Debug\Raio-Altura.pdb
+C:\Users\Giovanni\source\repos\Raio-Altura\obj\Debug\Raio-Altura.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Raio-Altura\obj\Debug\Raio-Altura.exe
+C:\Users\Giovanni\source\repos\Raio-Altura\obj\Debug\Raio-Altura.pdb

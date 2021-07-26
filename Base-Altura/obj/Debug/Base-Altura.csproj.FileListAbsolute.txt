@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Base-Altura\bin\Debug\Base-Altura.exe.config
+C:\Users\Giovanni\source\repos\Base-Altura\bin\Debug\Base-Altura.exe
+C:\Users\Giovanni\source\repos\Base-Altura\bin\Debug\Base-Altura.pdb
+C:\Users\Giovanni\source\repos\Base-Altura\obj\Debug\Base-Altura.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Base-Altura\obj\Debug\Base-Altura.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Base-Altura\obj\Debug\Base-Altura.exe
+C:\Users\Giovanni\source\repos\Base-Altura\obj\Debug\Base-Altura.pdb

@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Tabuada com while\bin\Debug\Tabuada com while.exe.config
+C:\Users\Giovanni\source\repos\Tabuada com while\bin\Debug\Tabuada com while.exe
+C:\Users\Giovanni\source\repos\Tabuada com while\bin\Debug\Tabuada com while.pdb
+C:\Users\Giovanni\source\repos\Tabuada com while\obj\Debug\Tabuada com while.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Tabuada com while\obj\Debug\Tabuada com while.exe
+C:\Users\Giovanni\source\repos\Tabuada com while\obj\Debug\Tabuada com while.pdb

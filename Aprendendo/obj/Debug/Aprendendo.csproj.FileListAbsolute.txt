@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Aprendendo\bin\Debug\Aprendendo.exe.config
+C:\Users\Giovanni\source\repos\Aprendendo\bin\Debug\Aprendendo.exe
+C:\Users\Giovanni\source\repos\Aprendendo\bin\Debug\Aprendendo.pdb
+C:\Users\Giovanni\source\repos\Aprendendo\obj\Debug\Aprendendo.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Aprendendo\obj\Debug\Aprendendo.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Aprendendo\obj\Debug\Aprendendo.exe
+C:\Users\Giovanni\source\repos\Aprendendo\obj\Debug\Aprendendo.pdb

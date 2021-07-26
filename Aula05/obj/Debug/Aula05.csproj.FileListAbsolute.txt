@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Aula05\bin\Debug\Aula05.exe.config
+C:\Users\Giovanni\source\repos\Aula05\bin\Debug\Aula05.exe
+C:\Users\Giovanni\source\repos\Aula05\bin\Debug\Aula05.pdb
+C:\Users\Giovanni\source\repos\Aula05\obj\Debug\Aula05.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Aula05\obj\Debug\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Aula05\obj\Debug\Aula05.exe
+C:\Users\Giovanni\source\repos\Aula05\obj\Debug\Aula05.pdb

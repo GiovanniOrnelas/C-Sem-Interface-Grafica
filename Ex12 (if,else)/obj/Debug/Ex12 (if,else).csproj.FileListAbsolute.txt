@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Ex12 (if,else)\bin\Debug\Ex12 (if,else).exe.config
+C:\Users\Giovanni\source\repos\Ex12 (if,else)\bin\Debug\Ex12 (if,else).exe
+C:\Users\Giovanni\source\repos\Ex12 (if,else)\bin\Debug\Ex12 (if,else).pdb
+C:\Users\Giovanni\source\repos\Ex12 (if,else)\obj\Debug\Ex12 (if,else).csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ex12 (if,else)\obj\Debug\Ex12 (if,else).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex12 (if,else)\obj\Debug\Ex12 (if,else).exe
+C:\Users\Giovanni\source\repos\Ex12 (if,else)\obj\Debug\Ex12 (if,else).pdb

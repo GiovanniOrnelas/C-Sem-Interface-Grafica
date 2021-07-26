@@ -1,0 +1,36 @@
+C:\Users\Giovanni\source\repos\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.exe
+C:\Users\Giovanni\source\repos\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.deps.json
+C:\Users\Giovanni\source\repos\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.dll
+C:\Users\Giovanni\source\repos\Calculadora Simples\bin\Debug\net5.0-windows\ref\Calculadora Simples.dll
+C:\Users\Giovanni\source\repos\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.pdb
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.dll
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\ref\Calculadora Simples.dll
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.pdb
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.genruntimeconfig.cache
+C:\Users\Giovanni\source\repos\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora_Simples.Form_Calculadora.resources
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.exe
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.deps.json
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.runtimeconfig.json
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.runtimeconfig.dev.json
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.dll
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\bin\Debug\net5.0-windows\ref\Calculadora Simples.dll
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\bin\Debug\net5.0-windows\Calculadora Simples.pdb
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.csproj.AssemblyReference.cache
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora_Simples.Form_Calculadora.resources
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.csproj.GenerateResource.cache
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.GeneratedMSBuildEditorConfig.editorconfig
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.AssemblyInfoInputs.cache
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.AssemblyInfo.cs
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.csproj.CoreCompileInputs.cache
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.dll
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\ref\Calculadora Simples.dll
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.pdb
+S:\Meus Documentos\Área de Trabalho\C#\Calculadora Simples\obj\Debug\net5.0-windows\Calculadora Simples.genruntimeconfig.cache

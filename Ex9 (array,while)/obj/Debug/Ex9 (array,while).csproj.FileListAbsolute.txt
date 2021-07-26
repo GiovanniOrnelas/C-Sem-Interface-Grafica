@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Ex9 (array,while)\bin\Debug\Ex9 (array,while).exe.config
+C:\Users\Giovanni\source\repos\Ex9 (array,while)\bin\Debug\Ex9 (array,while).exe
+C:\Users\Giovanni\source\repos\Ex9 (array,while)\bin\Debug\Ex9 (array,while).pdb
+C:\Users\Giovanni\source\repos\Ex9 (array,while)\obj\Debug\Ex9 (array,while).csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ex9 (array,while)\obj\Debug\Ex9 (array,while).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex9 (array,while)\obj\Debug\Ex9 (array,while).exe
+C:\Users\Giovanni\source\repos\Ex9 (array,while)\obj\Debug\Ex9 (array,while).pdb

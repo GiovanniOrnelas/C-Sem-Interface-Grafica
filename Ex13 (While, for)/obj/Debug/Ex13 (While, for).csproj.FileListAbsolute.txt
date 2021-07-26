@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex13 (While, for)\bin\Debug\Ex13 (While, for).exe.config
+C:\Users\Giovanni\source\repos\Ex13 (While, for)\bin\Debug\Ex13 (While, for).exe
+C:\Users\Giovanni\source\repos\Ex13 (While, for)\bin\Debug\Ex13 (While, for).pdb
+C:\Users\Giovanni\source\repos\Ex13 (While, for)\obj\Debug\Ex13 (While, for).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex13 (While, for)\obj\Debug\Ex13 (While, for).exe
+C:\Users\Giovanni\source\repos\Ex13 (While, for)\obj\Debug\Ex13 (While, for).pdb

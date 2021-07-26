@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\RelembrandoMatrizes\obj\Debug\RelembrandoMatrizes.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\RelembrandoMatrizes\obj\Debug\RelembrandoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\RelembrandoMatrizes\bin\Debug\RelembrandoMatrizes.exe.config
+C:\Users\Giovanni\source\repos\RelembrandoMatrizes\bin\Debug\RelembrandoMatrizes.exe
+C:\Users\Giovanni\source\repos\RelembrandoMatrizes\bin\Debug\RelembrandoMatrizes.pdb
+C:\Users\Giovanni\source\repos\RelembrandoMatrizes\obj\Debug\RelembrandoMatrizes.exe
+C:\Users\Giovanni\source\repos\RelembrandoMatrizes\obj\Debug\RelembrandoMatrizes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex19 (while,for)\bin\Debug\Ex19 (while,for).exe.config
+C:\Users\Giovanni\source\repos\Ex19 (while,for)\bin\Debug\Ex19 (while,for).exe
+C:\Users\Giovanni\source\repos\Ex19 (while,for)\bin\Debug\Ex19 (while,for).pdb
+C:\Users\Giovanni\source\repos\Ex19 (while,for)\obj\Debug\Ex19 (while,for).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex19 (while,for)\obj\Debug\Ex19 (while,for).exe
+C:\Users\Giovanni\source\repos\Ex19 (while,for)\obj\Debug\Ex19 (while,for).pdb

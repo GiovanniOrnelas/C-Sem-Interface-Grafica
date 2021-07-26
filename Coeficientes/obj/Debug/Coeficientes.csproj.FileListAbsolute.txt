@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Coeficientes\bin\Debug\Coeficientes.exe.config
+C:\Users\Giovanni\source\repos\Coeficientes\bin\Debug\Coeficientes.exe
+C:\Users\Giovanni\source\repos\Coeficientes\bin\Debug\Coeficientes.pdb
+C:\Users\Giovanni\source\repos\Coeficientes\obj\Debug\Coeficientes.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Coeficientes\obj\Debug\Coeficientes.exe
+C:\Users\Giovanni\source\repos\Coeficientes\obj\Debug\Coeficientes.pdb

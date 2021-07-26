@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Ex1-Funções-Métodos\bin\Debug\Ex1-Funções-Métodos.exe.config
+C:\Users\Giovanni\source\repos\Ex1-Funções-Métodos\bin\Debug\Ex1-Funções-Métodos.exe
+C:\Users\Giovanni\source\repos\Ex1-Funções-Métodos\bin\Debug\Ex1-Funções-Métodos.pdb
+C:\Users\Giovanni\source\repos\Ex1-Funções-Métodos\obj\Debug\Ex1-Funções-Métodos.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ex1-Funções-Métodos\obj\Debug\Ex1-Funções-Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex1-Funções-Métodos\obj\Debug\Ex1-Funções-Métodos.exe
+C:\Users\Giovanni\source\repos\Ex1-Funções-Métodos\obj\Debug\Ex1-Funções-Métodos.pdb

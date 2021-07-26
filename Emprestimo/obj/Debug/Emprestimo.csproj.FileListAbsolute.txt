@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Emprestimo\bin\Debug\Emprestimo.exe.config
+C:\Users\Giovanni\source\repos\Emprestimo\bin\Debug\Emprestimo.exe
+C:\Users\Giovanni\source\repos\Emprestimo\bin\Debug\Emprestimo.pdb
+C:\Users\Giovanni\source\repos\Emprestimo\obj\Debug\Emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Emprestimo\obj\Debug\Emprestimo.exe
+C:\Users\Giovanni\source\repos\Emprestimo\obj\Debug\Emprestimo.pdb
+C:\Users\Giovanni\source\repos\Emprestimo\obj\Debug\Emprestimo.csproj.AssemblyReference.cache

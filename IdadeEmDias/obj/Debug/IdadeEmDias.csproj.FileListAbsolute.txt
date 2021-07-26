@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\IdadeEmDias\bin\Debug\IdadeEmDias.exe.config
+C:\Users\Giovanni\source\repos\IdadeEmDias\bin\Debug\IdadeEmDias.exe
+C:\Users\Giovanni\source\repos\IdadeEmDias\bin\Debug\IdadeEmDias.pdb
+C:\Users\Giovanni\source\repos\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\IdadeEmDias\obj\Debug\IdadeEmDias.exe
+C:\Users\Giovanni\source\repos\IdadeEmDias\obj\Debug\IdadeEmDias.pdb

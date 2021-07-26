@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Maior-Menor (if,else)\bin\Debug\Maior-Menor (if,else).exe.config
+C:\Users\Giovanni\source\repos\Maior-Menor (if,else)\bin\Debug\Maior-Menor (if,else).exe
+C:\Users\Giovanni\source\repos\Maior-Menor (if,else)\bin\Debug\Maior-Menor (if,else).pdb
+C:\Users\Giovanni\source\repos\Maior-Menor (if,else)\obj\Debug\Maior-Menor (if,else).csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Maior-Menor (if,else)\obj\Debug\Maior-Menor (if,else).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Maior-Menor (if,else)\obj\Debug\Maior-Menor (if,else).exe
+C:\Users\Giovanni\source\repos\Maior-Menor (if,else)\obj\Debug\Maior-Menor (if,else).pdb

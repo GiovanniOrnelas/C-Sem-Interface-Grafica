@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Polegadas-Milímetros\bin\Debug\Polegadas-Milímetros.exe.config
+C:\Users\Giovanni\source\repos\Polegadas-Milímetros\bin\Debug\Polegadas-Milímetros.exe
+C:\Users\Giovanni\source\repos\Polegadas-Milímetros\bin\Debug\Polegadas-Milímetros.pdb
+C:\Users\Giovanni\source\repos\Polegadas-Milímetros\obj\Debug\Polegadas-Milímetros.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Polegadas-Milímetros\obj\Debug\Polegadas-Milímetros.exe
+C:\Users\Giovanni\source\repos\Polegadas-Milímetros\obj\Debug\Polegadas-Milímetros.pdb

@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Exercício 6\bin\Debug\Exercício 6.exe.config
+C:\Users\Giovanni\source\repos\Exercício 6\bin\Debug\Exercício 6.exe
+C:\Users\Giovanni\source\repos\Exercício 6\bin\Debug\Exercício 6.pdb
+C:\Users\Giovanni\source\repos\Exercício 6\obj\Debug\Exercício 6.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Exercício 6\obj\Debug\Exercício 6.exe
+C:\Users\Giovanni\source\repos\Exercício 6\obj\Debug\Exercício 6.pdb

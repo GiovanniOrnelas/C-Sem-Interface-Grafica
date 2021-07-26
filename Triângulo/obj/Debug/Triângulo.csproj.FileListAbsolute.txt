@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Triângulo\bin\Debug\Triângulo.exe.config
+C:\Users\Giovanni\source\repos\Triângulo\bin\Debug\Triângulo.exe
+C:\Users\Giovanni\source\repos\Triângulo\bin\Debug\Triângulo.pdb
+C:\Users\Giovanni\source\repos\Triângulo\obj\Debug\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Triângulo\obj\Debug\Triângulo.exe
+C:\Users\Giovanni\source\repos\Triângulo\obj\Debug\Triângulo.pdb

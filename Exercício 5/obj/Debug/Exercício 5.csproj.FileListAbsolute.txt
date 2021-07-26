@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Exercício 5\bin\Debug\Exercício 5.exe.config
+C:\Users\Giovanni\source\repos\Exercício 5\bin\Debug\Exercício 5.exe
+C:\Users\Giovanni\source\repos\Exercício 5\bin\Debug\Exercício 5.pdb
+C:\Users\Giovanni\source\repos\Exercício 5\obj\Debug\Exercício 5.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Exercício 5\obj\Debug\Exercício 5.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Exercício 5\obj\Debug\Exercício 5.exe
+C:\Users\Giovanni\source\repos\Exercício 5\obj\Debug\Exercício 5.pdb

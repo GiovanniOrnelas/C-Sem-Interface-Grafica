@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\MédiaDeUmAluno\bin\Debug\MédiaDeUmAluno.exe.config
+C:\Users\Giovanni\source\repos\MédiaDeUmAluno\bin\Debug\MédiaDeUmAluno.exe
+C:\Users\Giovanni\source\repos\MédiaDeUmAluno\bin\Debug\MédiaDeUmAluno.pdb
+C:\Users\Giovanni\source\repos\MédiaDeUmAluno\obj\Debug\MédiaDeUmAluno.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\MédiaDeUmAluno\obj\Debug\MédiaDeUmAluno.exe
+C:\Users\Giovanni\source\repos\MédiaDeUmAluno\obj\Debug\MédiaDeUmAluno.pdb

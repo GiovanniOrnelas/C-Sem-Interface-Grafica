@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Multiplos de 3\bin\Debug\Multiplos de 3.exe.config
+C:\Users\Giovanni\source\repos\Multiplos de 3\bin\Debug\Multiplos de 3.exe
+C:\Users\Giovanni\source\repos\Multiplos de 3\bin\Debug\Multiplos de 3.pdb
+C:\Users\Giovanni\source\repos\Multiplos de 3\obj\Debug\Multiplos de 3.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Multiplos de 3\obj\Debug\Multiplos de 3.exe
+C:\Users\Giovanni\source\repos\Multiplos de 3\obj\Debug\Multiplos de 3.pdb

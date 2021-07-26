@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex5 (while,for)\bin\Debug\Ex5 (while,for).exe.config
+C:\Users\Giovanni\source\repos\Ex5 (while,for)\bin\Debug\Ex5 (while,for).exe
+C:\Users\Giovanni\source\repos\Ex5 (while,for)\bin\Debug\Ex5 (while,for).pdb
+C:\Users\Giovanni\source\repos\Ex5 (while,for)\obj\Debug\Ex5 (while,for).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex5 (while,for)\obj\Debug\Ex5 (while,for).exe
+C:\Users\Giovanni\source\repos\Ex5 (while,for)\obj\Debug\Ex5 (while,for).pdb

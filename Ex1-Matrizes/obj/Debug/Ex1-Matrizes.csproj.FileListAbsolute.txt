@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Ex1-Matrizes\bin\Debug\Ex1-Matrizes.exe.config
+C:\Users\Giovanni\source\repos\Ex1-Matrizes\bin\Debug\Ex1-Matrizes.exe
+C:\Users\Giovanni\source\repos\Ex1-Matrizes\bin\Debug\Ex1-Matrizes.pdb
+C:\Users\Giovanni\source\repos\Ex1-Matrizes\obj\Debug\Ex1-Matrizes.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ex1-Matrizes\obj\Debug\Ex1-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex1-Matrizes\obj\Debug\Ex1-Matrizes.exe
+C:\Users\Giovanni\source\repos\Ex1-Matrizes\obj\Debug\Ex1-Matrizes.pdb

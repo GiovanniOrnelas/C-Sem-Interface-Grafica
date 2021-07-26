@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Dias\bin\Debug\Dias.exe.config
+C:\Users\Giovanni\source\repos\Dias\bin\Debug\Dias.exe
+C:\Users\Giovanni\source\repos\Dias\bin\Debug\Dias.pdb
+C:\Users\Giovanni\source\repos\Dias\obj\Debug\Dias.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Dias\obj\Debug\Dias.exe
+C:\Users\Giovanni\source\repos\Dias\obj\Debug\Dias.pdb
+C:\Users\Giovanni\source\repos\Dias\obj\Debug\Dias.csproj.AssemblyReference.cache

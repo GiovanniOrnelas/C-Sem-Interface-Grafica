@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1-Funções-Métodos", "Ex1-Funções-Métodos.csproj", "{FCC03951-141B-4475-B3DC-ACFC27FF30DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC03951-141B-4475-B3DC-ACFC27FF30DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC03951-141B-4475-B3DC-ACFC27FF30DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC03951-141B-4475-B3DC-ACFC27FF30DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC03951-141B-4475-B3DC-ACFC27FF30DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EC9CBB-DB98-4086-BEA3-5083E8E216EA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Divisão\bin\Debug\Divisão.exe.config
+C:\Users\Giovanni\source\repos\Divisão\bin\Debug\Divisão.exe
+C:\Users\Giovanni\source\repos\Divisão\bin\Debug\Divisão.pdb
+C:\Users\Giovanni\source\repos\Divisão\obj\Debug\Divisão.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Divisão\obj\Debug\Divisão.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Divisão\obj\Debug\Divisão.exe
+C:\Users\Giovanni\source\repos\Divisão\obj\Debug\Divisão.pdb

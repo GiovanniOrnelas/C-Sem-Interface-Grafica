@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex Diferente\bin\Debug\Ex Diferente.exe.config
+C:\Users\Giovanni\source\repos\Ex Diferente\bin\Debug\Ex Diferente.exe
+C:\Users\Giovanni\source\repos\Ex Diferente\bin\Debug\Ex Diferente.pdb
+C:\Users\Giovanni\source\repos\Ex Diferente\obj\Debug\Ex Diferente.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex Diferente\obj\Debug\Ex Diferente.exe
+C:\Users\Giovanni\source\repos\Ex Diferente\obj\Debug\Ex Diferente.pdb

@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\fatorial2\bin\Debug\fatorial2.exe.config
+C:\Users\Giovanni\source\repos\fatorial2\bin\Debug\fatorial2.exe
+C:\Users\Giovanni\source\repos\fatorial2\bin\Debug\fatorial2.pdb
+C:\Users\Giovanni\source\repos\fatorial2\obj\Debug\fatorial2.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\fatorial2\obj\Debug\fatorial2.exe
+C:\Users\Giovanni\source\repos\fatorial2\obj\Debug\fatorial2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\ArrayComNumerosInteiros\bin\Debug\ArrayComNumerosInteiros.exe.config
+C:\Users\Giovanni\source\repos\ArrayComNumerosInteiros\bin\Debug\ArrayComNumerosInteiros.exe
+C:\Users\Giovanni\source\repos\ArrayComNumerosInteiros\bin\Debug\ArrayComNumerosInteiros.pdb
+C:\Users\Giovanni\source\repos\ArrayComNumerosInteiros\obj\Debug\ArrayComNumerosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\ArrayComNumerosInteiros\obj\Debug\ArrayComNumerosInteiros.exe
+C:\Users\Giovanni\source\repos\ArrayComNumerosInteiros\obj\Debug\ArrayComNumerosInteiros.pdb

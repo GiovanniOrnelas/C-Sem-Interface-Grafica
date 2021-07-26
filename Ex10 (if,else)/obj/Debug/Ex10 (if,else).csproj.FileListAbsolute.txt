@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex10 (if,else)\bin\Debug\Ex10 (if,else).exe.config
+C:\Users\Giovanni\source\repos\Ex10 (if,else)\bin\Debug\Ex10 (if,else).exe
+C:\Users\Giovanni\source\repos\Ex10 (if,else)\bin\Debug\Ex10 (if,else).pdb
+C:\Users\Giovanni\source\repos\Ex10 (if,else)\obj\Debug\Ex10 (if,else).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex10 (if,else)\obj\Debug\Ex10 (if,else).exe
+C:\Users\Giovanni\source\repos\Ex10 (if,else)\obj\Debug\Ex10 (if,else).pdb

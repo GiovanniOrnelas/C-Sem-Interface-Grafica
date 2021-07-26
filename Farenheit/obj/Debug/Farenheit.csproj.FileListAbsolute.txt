@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Farenheit\bin\Debug\Farenheit.exe.config
+C:\Users\Giovanni\source\repos\Farenheit\bin\Debug\Farenheit.exe
+C:\Users\Giovanni\source\repos\Farenheit\bin\Debug\Farenheit.pdb
+C:\Users\Giovanni\source\repos\Farenheit\obj\Debug\Farenheit.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Farenheit\obj\Debug\Farenheit.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Farenheit\obj\Debug\Farenheit.exe
+C:\Users\Giovanni\source\repos\Farenheit\obj\Debug\Farenheit.pdb

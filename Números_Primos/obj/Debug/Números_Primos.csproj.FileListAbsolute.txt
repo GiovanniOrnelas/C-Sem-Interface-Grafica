@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Números_Primos\bin\Debug\Números_Primos.exe.config
+C:\Users\Giovanni\source\repos\Números_Primos\bin\Debug\Números_Primos.exe
+C:\Users\Giovanni\source\repos\Números_Primos\bin\Debug\Números_Primos.pdb
+C:\Users\Giovanni\source\repos\Números_Primos\obj\Debug\Números_Primos.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Números_Primos\obj\Debug\Números_Primos.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Números_Primos\obj\Debug\Números_Primos.exe
+C:\Users\Giovanni\source\repos\Números_Primos\obj\Debug\Números_Primos.pdb

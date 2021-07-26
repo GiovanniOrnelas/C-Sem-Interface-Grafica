@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\Ex6 (array,while)\bin\Debug\Ex6 (array,while).exe.config
+C:\Users\Giovanni\source\repos\Ex6 (array,while)\bin\Debug\Ex6 (array,while).exe
+C:\Users\Giovanni\source\repos\Ex6 (array,while)\bin\Debug\Ex6 (array,while).pdb
+C:\Users\Giovanni\source\repos\Ex6 (array,while)\obj\Debug\Ex6 (array,while).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex6 (array,while)\obj\Debug\Ex6 (array,while).exe
+C:\Users\Giovanni\source\repos\Ex6 (array,while)\obj\Debug\Ex6 (array,while).pdb

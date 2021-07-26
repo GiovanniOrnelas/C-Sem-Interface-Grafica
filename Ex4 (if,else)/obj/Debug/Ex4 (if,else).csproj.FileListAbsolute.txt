@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Ex4 (if,else)\bin\Debug\Ex4 (if,else).exe.config
+C:\Users\Giovanni\source\repos\Ex4 (if,else)\bin\Debug\Ex4 (if,else).exe
+C:\Users\Giovanni\source\repos\Ex4 (if,else)\bin\Debug\Ex4 (if,else).pdb
+C:\Users\Giovanni\source\repos\Ex4 (if,else)\obj\Debug\Ex4 (if,else).csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ex4 (if,else)\obj\Debug\Ex4 (if,else).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex4 (if,else)\obj\Debug\Ex4 (if,else).exe
+C:\Users\Giovanni\source\repos\Ex4 (if,else)\obj\Debug\Ex4 (if,else).pdb

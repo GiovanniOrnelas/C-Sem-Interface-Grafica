@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Multiplicidade\bin\Debug\Multiplicidade.exe.config
+C:\Users\Giovanni\source\repos\Multiplicidade\bin\Debug\Multiplicidade.exe
+C:\Users\Giovanni\source\repos\Multiplicidade\bin\Debug\Multiplicidade.pdb
+C:\Users\Giovanni\source\repos\Multiplicidade\obj\Debug\Multiplicidade.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Multiplicidade\obj\Debug\Multiplicidade.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Multiplicidade\obj\Debug\Multiplicidade.exe
+C:\Users\Giovanni\source\repos\Multiplicidade\obj\Debug\Multiplicidade.pdb

@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\Ex1 (while)\bin\Debug\Ex1 (while).exe.config
+C:\Users\Giovanni\source\repos\Ex1 (while)\bin\Debug\Ex1 (while).exe
+C:\Users\Giovanni\source\repos\Ex1 (while)\bin\Debug\Ex1 (while).pdb
+C:\Users\Giovanni\source\repos\Ex1 (while)\obj\Debug\Ex1 (while).csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ex1 (while)\obj\Debug\Ex1 (while).csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ex1 (while)\obj\Debug\Ex1 (while).exe
+C:\Users\Giovanni\source\repos\Ex1 (while)\obj\Debug\Ex1 (while).pdb

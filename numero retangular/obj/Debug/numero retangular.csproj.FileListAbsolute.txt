@@ -1,0 +1,6 @@
+C:\Users\Giovanni\source\repos\numero retangular\bin\Debug\numero retangular.exe.config
+C:\Users\Giovanni\source\repos\numero retangular\bin\Debug\numero retangular.exe
+C:\Users\Giovanni\source\repos\numero retangular\bin\Debug\numero retangular.pdb
+C:\Users\Giovanni\source\repos\numero retangular\obj\Debug\numero retangular.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\numero retangular\obj\Debug\numero retangular.exe
+C:\Users\Giovanni\source\repos\numero retangular\obj\Debug\numero retangular.pdb
